@@ -8,6 +8,7 @@
 # TASK 1 -
 
 Website Name: HashCom
+Website Link: https://shikhar-lgm-task1-hascom.netlify.app/
 
 Type: Frontend
 
